@@ -1,1 +1,1 @@
-# Visibility-Climate-KuberVisibility-Climate-Kubernetes-Azure-CD
+# Visibility-Climate-Kubernetes-Azure-CD
